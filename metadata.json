@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Online",
+  "description": "Multiplayer & Offline Ludo Game with Real-time Rooms, Quick Match, Bots, Leaderboard, and Elo Rating",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
